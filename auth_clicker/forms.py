@@ -16,4 +16,5 @@ class UserForm(forms.Form):
         user = User.objects.create_user(username, '', password)
         if commit:
             user.save()
+
         return user
