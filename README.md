@@ -1,3 +1,3 @@
 # myproject
 
-Кликер игра
+Игра на подобие Cookie clicker
